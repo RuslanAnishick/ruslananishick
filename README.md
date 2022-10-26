@@ -19,7 +19,7 @@
 
 ### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslananishick&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=ayu-mirage)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslananishick&show_icons=true&theme=ayu-mirage)
 
 ### Follow me:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/r.anischik/)
