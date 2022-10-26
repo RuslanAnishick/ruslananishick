@@ -9,3 +9,5 @@
 ### Follow me 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/r.anischik/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/rusyaoo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslananishick&layout=compact&show_icons=true&themes=onedark)](https://github.com/anuraghazra/github-readme-stats)
